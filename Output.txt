@@ -1,0 +1,6 @@
+<!DOCTYPE Characters>
+<Hotspots>
+ <Hotspot X="7055,854" Y="3003,096" Z="458,3216"/>
+ <Hotspot X="7064,809" Y="3003,991" Z="467,5771"/>
+ <Hotspot X="7105,568" Y="3008,066" Z="459,753"/>
+</Hotspots>
